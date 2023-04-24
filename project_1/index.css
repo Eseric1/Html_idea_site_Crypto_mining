@@ -1,0 +1,101 @@
+/* Style the body element */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333333;
+    background-color: #d3be0027;
+    margin: 0;
+    padding: 0;
+  }
+nav {
+    background-color: #03263d;
+    padding: 10px;
+    color:#064629
+  }
+  
+  nav ul {
+    list-style:inside;
+    margin: 0;
+    padding: 0;
+    color:#49226300
+  }
+  
+  nav li {
+    display:inline-flex;
+    margin-right: 20px;
+    color:#66898f
+  }
+  
+  nav a {
+    text-decoration: none;
+    color:#bbbeae
+  }
+  
+  nav a:hover {
+    padding: 1px;;
+    background-color: rgba(50, 10, 161, 0.61);
+    color: #fdfdfd;
+}
+  /* Style the h1 element */
+  h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color:#b5651e;
+    text-align:right;
+    block-size: 10%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-image: url("https://www.cryptonewsz.com/wp-content/uploads/2019/06/crypto-mining-780x405.jpg");
+  }
+  
+  /* Style the h2 element */
+  h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+
+  }
+  
+  /* Style the p element */
+  p {
+    line-height: 1.5;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+  }
+  
+  /* Style the th element */
+  th {
+    background-color: #e0e0e0;
+    padding: 10px;
+  }
+  
+  /* Style the td element */
+  td {
+    border: 1px solid #cccccc;
+    padding: 10px;
+  }
+  
+  /* Style the a element */
+  a {
+    color: #333333;
+    text-decoration: none;
+  }
+  
+  /* Style the a element on hover */
+  a:hover {
+    color: #b81313;
+  }
+  
+  /* Style the li element */
+  li {
+    background-color: #b5651e21;
+    margin-top: 10px;
+
+  }
+  
+
